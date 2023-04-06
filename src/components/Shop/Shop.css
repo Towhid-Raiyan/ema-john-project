@@ -8,3 +8,15 @@
     gap: 45px;
     margin: 50px;
 }
+.btn-proceed{
+    width: 97%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #FF9900;;
+    border-radius: 4px;
+    color: white;
+}
